@@ -1,0 +1,13 @@
+Ans1- A server port is a communication endpoint in a server where specific types of network traffic are directed.
+Ans 2- port numbers are divided into different categories based on their use, and they range from 0 to 65535.
+Ans3- 16-bit value
+ans4- Port 80 – HTTP (web traffic)
+Port 443 – HTTPS (secure web traffic)
+Port 21 – FTP (file transfer)
+Port 22 – SSH (secure shell for remote access)
+Port 25 – SMTP (email sending)
+Port 110 – POP3 (email retrieval)
+Port 143 – IMAP (email retrieval and management)
+Port 53 – DNS (domain name resolution)
+Port 3306 – MySQL (database server)
+Port 3389 
